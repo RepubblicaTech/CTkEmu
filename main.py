@@ -1,6 +1,6 @@
 import os, customtkinter as CTk
 
-CTk.set_appearance_mode('dark')                 # Modes: "system" (default), "dark", "light"
+CTk.set_appearance_mode('system')                 # Modes: "system" (default), "dark", "light"
 CTk.set_default_color_theme('blue')             # Themes: "blue" (standard), "green", "dark-blue"
 
 app = CTk.CTk()
