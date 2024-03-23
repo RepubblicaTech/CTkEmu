@@ -10,7 +10,7 @@ Remember: This software is still not feature complete, but it's already fine for
 
 # Installation instructions
 
-Make sure you downloaded both `CTkEMU.py` and `requirements.txt` from the Releases page.
+Make sure you downloaded both `CTkEMU.py` and `requirements.txt` from the [Releases](https://github.com/RepubblicaTech/CTkEMU/releases) page.
 
 ## 1. Requirements
 Download [QEMU](https://www.qemu.org/) and [Python](https://www.python.org/downloads/) from their official website.
