@@ -106,8 +106,9 @@ CTk.CTkOptionMenu(app, values=platforms, variable=platform).grid(row=6, column=1
 CTk.CTkLabel(app, text="Boot from:", font=CTk.CTkFont(family='Calibri Bold')).grid(row=7, column=0, padx=20, sticky='w')
 CTk.CTkOptionMenu(app, values=bootModes, variable=bootMode).grid(row=7, column=1, sticky='w')
 
+'''
 CTk.CTkButton(app, text="Save VM Configuration", command=getInfo).grid(row=8, column=0, padx=20, pady=20, sticky='w')
 CTk.CTkButton(app, text="Start-up VM", command=lambda:launchVm(bootMode)).grid(row=8, column=1, sticky='w')
-
+'''
 
 app.mainloop()
