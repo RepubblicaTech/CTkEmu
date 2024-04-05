@@ -1,6 +1,6 @@
 # CTkEMU: a GUI frontend for QEMU written in Python with Customtkinter
 
-Have you ever thought of the possibility to have a graphical interface for QEMU like Virt-manager? I tried many of them, but they were either outdated or they simply wouldn't work.
+Have you ever thought of the possibility to have a graphical interface for QEMU like Virt-manager, but for systems like Windows or Mac OS? I tried many of them, but they were either outdated or they simply wouldn't work.
 
 CTkEMU is a modern approach that uses Python with Customtkinter to easily launch QEMU VMs with a modern GUI:
 
