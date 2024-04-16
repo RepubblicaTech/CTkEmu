@@ -7,6 +7,7 @@ CTkEMU is a modern approach that uses Python with Customtkinter to easily launch
 ![CTkEMU main Window](images/CTkEMU.png)
 
 Remember: This software is still not feature complete, but it's already fine for basic use.
+(e.g. the "Save VM Config" button is there only for aesthetic, it doesn't sill work lol)
 
 # Installation instructions
 
