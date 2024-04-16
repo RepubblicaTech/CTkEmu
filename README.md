@@ -44,7 +44,7 @@ And lastly, click on *Add* and paste the QEMU program path:
 
 ![](images/LastStep.png)
 
-## NOTE: make sure that at the end of the text ther shouldn't be any  slashes (e.g. `C:\Programs Files\qemu` not `C:\Programs Files\qemu\`)
+## NOTE: make sure that at the end of the text there shouldn't be any  slashes (e.g. `C:\Programs Files\qemu` not `C:\Programs Files\qemu\`)
 
 Finally, click OK and close all these windows.
 It's recommended to restart your PC, but the PATH should be already set up.
